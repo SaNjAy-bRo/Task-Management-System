@@ -39,6 +39,7 @@ npm run dev
 ## 📚 Documentation
 *   [Walkthrough & Verification Steps](./WALKTHROUGH.md)
 *   [Interview Preparation Guide](./INTERVIEW_GUIDE.md)
+*   [Deployment Guide](./DEPLOYMENT.md)
 
 ---
 © 2025 Internal Tools Team.
